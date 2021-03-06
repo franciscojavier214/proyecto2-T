@@ -1,0 +1,120 @@
+{
+        "marca" : "AMD",
+        "generacion" : "Matisse",
+        "modelo" : "Ryzen Threadripper 3970X",
+        "price" : 2000,
+        "dateOfRelased" : ISODate("2019-11-01T00:00:00Z"),
+        "puntuacion" : 388.8
+}
+{
+        "marca" : "AMD",
+        "generacion" : "Vermeer",
+        "modelo" : "Ryzen 9 5950X",
+        "precio" : 850,
+        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z"),
+        "puntuacion" : 219.5
+}
+{
+        "marca" : "Intel",
+        "generacion" : "Coffee Lake",
+        "modelo" : "Xeon Gold 6148",
+        "precio" : 3520,
+        "dateOfRelased" : ISODate("2017-04-01T00:00:00Z"),
+        "puntuacion" : 185
+}
+{
+        "marca" : "Intel",
+        "generacion" : "Comet Lake",
+        "modelo" : "Core i9-10900K",
+        "precio" : 570,
+        "dateOfRelased" : ISODate("2020-05-01T00:00:00Z"),
+        "puntuacion" : 146.3
+}
+{
+        "marca" : "Intel",
+        "generacion" : "Comet Lake",
+        "modelo" : "Core i7-10700K",
+        "precio" : 370,
+        "dateOfRelased" : ISODate("2020-05-01T00:00:00Z"),
+        "puntuacion" : 112.6
+}
+{
+        "marca" : "AMD",
+        "generacion" : "Vermeer",
+        "modelo" : "Ryzen 7 5800X",
+        "precio" : 475,
+        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z"),
+        "puntuacion" : 105.3
+}
+{
+        "marca" : "AMD",
+        "generacion" : "Matisse",
+        "modelo" : "Ryzen 7 3700X",
+        "precio" : 320,
+        "dateOfRelased" : ISODate("2019-07-01T00:00:00Z"),
+        "puntuacion" : 95
+}
+{
+        "marca" : "Intel",
+        "generacion" : "Comet Lake",
+        "modelo" : "Core i5-10600K",
+        "precio" : 250,
+        "dateOfRelased" : ISODate("2020-05-01T00:00:00Z"),
+        "puntuacion" : 79.5
+}
+{
+        "marca" : "AMD",
+        "generacion" : "Pinnacle Ridge",
+        "modelo" : "Ryzen 7 2700X",
+        "precio" : 200,
+        "dateOfRelased" : ISODate("2018-05-01T00:00:00Z"),
+        "puntuacion" : 79.1
+}
+{
+        "marca" : "AMD",
+        "generacion" : "Vermeer",
+        "modelo" : "Ryzen 5 5600X",
+        "precio" : 300,
+        "dateOfRelased" : ISODate("2020-11-01T00:00:00Z"),
+        "puntuacion" : 77.3
+}
+{
+        "marca" : "AMD",
+        "generacion" : "Matisse",
+        "modelo" : "Ryzen 5 3600",
+        "precio" : 225,
+        "dateOfRelased" : ISODate("2019-07-01T00:00:00Z"),
+        "puntuacion" : 68
+}
+{
+        "marca" : "Intel",
+        "generacion" : "Comet Lake",
+        "modelo" : "Core i3-10320",
+        "precio" : 150,
+        "dateOfRelased" : ISODate("2020-05-01T00:00:00Z"),
+        "puntuacion" : 50.8
+}
+{
+        "marca" : "Intel",
+        "generacion" : "Coffee Lake",
+        "modelo" : "Core i7-9700",
+        "precio" : 275,
+        "dateOfRelased" : ISODate("2019-05-01T00:00:00Z"),
+        "puntuacion" : 47
+}
+{
+        "marca" : "Intel",
+        "generacion" : "Coffee Lake",
+        "modelo" : "Core i5-9600K",
+        "precio" : 190,
+        "dateOfRelased" : ISODate("2018-10-01T00:00:00Z"),
+        "puntuacion" : 34.5
+}
+{
+        "marca" : "AMD",
+        "generacion" : "Matisse",
+        "modelo" : "Ryzen 3 3200G",
+        "precio" : 130,
+        "dateOfRelased" : ISODate("2019-07-01T00:00:00Z"),
+        "puntuacion" : 21.6
+}

@@ -1,0 +1,2 @@
+Este proyecto consta de 3 colecciones, la primera de ellas contiene las características principales de varias Placas Base, en la segunda encontramos distintos módulos de memoria RAM y en el tercero tiene procesadores.
+Las podemos encontrar 4 consultas, entre ellas encontramos como unir las tres colecciones de forma que se muestre todas las combinaciones compatibles para cada procesador o calcular una puntuación teórica según su Hardware y mostrar la mejor combinación para cada procesador.

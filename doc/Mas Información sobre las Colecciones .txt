@@ -1,0 +1,13 @@
+Algunos aspectos del proyecto pueden ser muy tecnicos, por ello explicare el significado de estos:
+
+Placas Bases o motherboard:
+
+factorForma: el tamaño físico de las placas base se denomina según el estándar ATX con distintas variaciones.
+socket: es el zócalo donde se encuentra el procesador y depende del procesador.
+chipset: es un conjunto de características de la placa de la que depende la conectividad y la compatibilidad con 
+los procesadores.
+
+Memorias:
+PN: o Presión Nominal, es un sello que identifica cada modelo de memoria RAM.
+Mhz: es la frecuencia de reloj a la que la memoria transmite información.
+cl: es la latencia de las memorias.

@@ -1,0 +1,1165 @@
+//Ejemplo con tabulaciones.
+{
+        "marca" : "Intel",
+        "modelo" : "Core i9-10900K",
+        "core" : 10,
+        "Ghz" : 5.3,
+        "precio" : 570,
+        "dateOfRelased" : ISODate("2020-05-01T00:00:00Z"),
+        "PlacasBaseCompatibles" : [
+                {
+                        "_id" : ObjectId("60424dcb3b3794b8114d01c5"),
+                        "modelo" : "PRIME B460M-A",
+                        "factorForma" : "Micro ATX",
+                        "socket" : "LGA1200",
+                        "chipset" : "B460",
+                        "precio" : 90,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("60413aae63e07922b86c5e9c"),
+                                        "PN" : "HX426C16FB3/8",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                },
+                                {
+                                        "_id" : ObjectId("60413aae63e07922b86c5ea1"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                },
+                                {
+                                        "_id" : ObjectId("60413aae63e07922b86c5ea2"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("60424dcb3b3794b8114d01c6"),
+                        "modelo" : "H410M H",
+                        "factorForma" : "Micro ATX",
+                        "socket" : "LGA1200",
+                        "chipset" : "H410",
+                        "precio" : 86,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("60413aae63e07922b86c5e9c"),
+                                        "PN" : "HX426C16FB3/8",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                },
+                                {
+                                        "_id" : ObjectId("60413aae63e07922b86c5ea1"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                },
+                                {
+                                        "_id" : ObjectId("60413aae63e07922b86c5ea2"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("60424dcb3b3794b8114d01c7"),
+                        "modelo" : "PRIME H470-PLUS",
+                        "factorForma" : "Micro ATX",
+                        "socket" : "LGA1200",
+                        "chipset" : "H470",
+                        "precio" : 86,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("60413aae63e07922b86c5e9c"),
+                                        "PN" : "HX426C16FB3/8",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                },
+                                {
+                                        "_id" : ObjectId("60413aae63e07922b86c5ea1"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                },
+                                {
+                                        "_id" : ObjectId("60413aae63e07922b86c5ea2"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("60424dcb3b3794b8114d01c8"),
+                        "modelo" : "MPG Z490 GAMING EDGE WIFI",
+                        "factorForma" : "ATX",
+                        "socket" : "LGA1200",
+                        "chipset" : "Z490",
+                        "precio" : 207,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("60413aae63e07922b86c5ea3"),
+                                        "PN" : "",
+                                        "modelo" : "Ballistix Max RGB",
+                                        "Mhz" : 4400,
+                                        "cl" : 18,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 32,
+                                        "precio" : 250,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                }
+                        ]
+                }
+        ]
+}
+
+//Todas las combinaciones.
+
+{ "marca" : "Intel", "generacion" : "Coffee Lake", "modelo" : "Xeon Gold 6148", "core" : 20, "Ghz" : 3.7, "precio" : 3520, "dateOfRelased" : ISODate("2017-04-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb33b3794b8114d1ccf"), "modelo" : "ProLiant DL360", "factorForma" : "1U", "chipset" : "C621", "precio" : 1940, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" :
+15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] } ] }
+{ "marca" : "AMD", "generacion" : "Matisse", "modelo" : "Ryzen Threadripper 3970X", "core" : 32, "Ghz" : 4.5, "price" : 2000, "dateOfRelased" : ISODate("2019-11-01T00:00:00Z"), "PlacasBaseCompatibles" : [ ] }
+{ "marca" : "AMD", "generacion" : "Vermeer", "modelo" : "Ryzen 9 5950X", "core" : 16, "Ghz" : 4.9, "precio" : 850, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb23b3794b8114d1cc7"), "modelo" : "MAG A520M VECTOR WIFI", "factorForma" : "ATX", "chipset" : "A520", "precio" : 83, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe566"), "PN" : "BLM2K8G40C18U4BL/32", "modelo" : "Ballistix Max RGB", "Mhz" : 4400, "cl" : 18, "gen" : "DDR4", "capacidad" : 32, "precio" : 250 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1cc8"), "modelo" : "B550M AORUS PRO-P", "factorForma" : "Micro ATX", "chipset" : "B550", "precio" : 120, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe566"), "PN" : "BLM2K8G40C18U4BL/32", "modelo" : "Ballistix Max RGB", "Mhz" : 4400, "cl" : 18, "gen" : "DDR4", "capacidad" : 32, "precio" : 250 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1cc9"), "modelo" : "X570 Aorus Pro", "factorForma" : "ATX", "chipset" : "X570", "precio" : 250, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe566"), "PN" : "BLM2K8G40C18U4BL/32", "modelo" : "Ballistix Max RGB", "Mhz" : 4400, "cl" : 18, "gen" : "DDR4", "capacidad" : 32, "precio" : 250 } ] } ] }
+{ "marca" : "AMD", "generacion" : "Vermeer", "modelo" : "Ryzen 7 5800X", "core" : 8, "Ghz" : 4.7, "precio" : 475, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb23b3794b8114d1cc7"), "modelo" : "MAG A520M VECTOR WIFI", "factorForma" : "ATX", "chipset" : "A520", "precio" : 83, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe566"), "PN" : "BLM2K8G40C18U4BL/32", "modelo" : "Ballistix Max RGB", "Mhz" : 4400, "cl" : 18, "gen" : "DDR4", "capacidad" : 32, "precio" : 250 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1cc8"), "modelo" : "B550M AORUS PRO-P", "factorForma" : "Micro ATX", "chipset" : "B550", "precio" : 120, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe566"), "PN" : "BLM2K8G40C18U4BL/32", "modelo" : "Ballistix Max RGB", "Mhz" : 4400, "cl" : 18, "gen" : "DDR4", "capacidad" :
+32, "precio" : 250 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1cc9"), "modelo" : "X570 Aorus Pro", "factorForma" : "ATX", "chipset" : "X570", "precio" : 250, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe566"), "PN" : "BLM2K8G40C18U4BL/32", "modelo" : "Ballistix Max RGB", "Mhz" : 4400, "cl" : 18, "gen" : "DDR4", "capacidad" : 32, "precio" : 250 } ] } ] }
+{ "marca" : "AMD", "generacion" : "Matisse", "modelo" : "Ryzen 7 3700X", "core" : 8, "Ghz" : 4.4, "precio" : 320, "dateOfRelased" : ISODate("2019-07-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb23b3794b8114d1cc4"), "modelo" : "B450M DS3H V2", "factorForma" : "ATX", "chipset" : "B450", "precio" : 75, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1cca"), "modelo" : "B450M Mortar Max", "factorForma" : "Micro ATX", "chipset" : "B450", "precio" : 90, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id"
+: ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1ccb"), "modelo" : "X470 Gaming Plus Max", "factorForma" : "ATX", "chipset" : "X470", "precio" : 98, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1ccc"), "modelo" : "GA-A320M-S2H V2", "factorForma" : "Micro ATX", "chipset" : "B350", "precio" : 60, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1ccd"), "modelo" : "A320M DVS R4.0", "factorForma" : "ATX", "chipset" : "A320", "precio" : 48, "MemoriasCompatibles" :
+[ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cce"), "modelo" : "X370 Taichi", "factorForma" : "ATX", "chipset" : "X370", "precio" : 114, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] } ] }
+{ "marca" : "AMD", "generacion" : "Pinnacle Ridge", "modelo" : "Ryzen 7 2700X", "core" : 8, "Ghz" : 4.3, "precio" : 200, "dateOfRelased" : ISODate("2018-05-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb23b3794b8114d1ccc"), "modelo" : "GA-A320M-S2H V2", "factorForma" : "Micro ATX", "chipset" : "B350", "precio" : 60, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX
+Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ]
+}, { "_id" : ObjectId("6043eeb33b3794b8114d1ccd"), "modelo" : "A320M DVS R4.0", "factorForma" : "ATX", "chipset" : "A320", "precio" : 48, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8,
+"precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cce"), "modelo" : "X370 Taichi", "factorForma" : "ATX", "chipset" : "X370", "precio" : 114, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] } ] }
+{ "marca" : "AMD", "generacion" : "Vermeer", "modelo" : "Ryzen 5 5600X", "core" : 6, "Ghz" : 4.6, "precio" : 300, "dateOfRelased" : ISODate("2020-11-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb23b3794b8114d1cc7"), "modelo" : "MAG A520M VECTOR WIFI", "factorForma" : "ATX", "chipset" : "A520", "precio" : 83, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe566"), "PN" : "BLM2K8G40C18U4BL/32", "modelo" : "Ballistix Max RGB", "Mhz" : 4400, "cl" : 18, "gen" : "DDR4", "capacidad" : 32, "precio" : 250 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1cc8"), "modelo" : "B550M AORUS PRO-P", "factorForma" : "Micro ATX", "chipset" : "B550", "precio" : 120, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe566"), "PN" : "BLM2K8G40C18U4BL/32", "modelo" : "Ballistix Max RGB", "Mhz" : 4400, "cl" : 18, "gen" : "DDR4", "capacidad" :
+32, "precio" : 250 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1cc9"), "modelo" : "X570 Aorus Pro", "factorForma" : "ATX", "chipset" : "X570", "precio" : 250, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe566"), "PN" : "BLM2K8G40C18U4BL/32", "modelo" : "Ballistix Max RGB", "Mhz" : 4400, "cl" : 18, "gen" : "DDR4", "capacidad" : 32, "precio" : 250 } ] } ] }
+{ "marca" : "AMD", "generacion" : "Matisse", "modelo" : "Ryzen 5 3600", "core" : 6, "Ghz" : 4.2, "precio" : 225, "dateOfRelased" : ISODate("2019-07-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb23b3794b8114d1cc4"), "modelo" : "B450M DS3H V2", "factorForma" : "ATX", "chipset" : "B450", "precio" : 75, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1cca"), "modelo" : "B450M Mortar Max", "factorForma" : "Micro ATX", "chipset" : "B450", "precio" : 90, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1ccb"), "modelo" : "X470 Gaming Plus Max", "factorForma" : "ATX", "chipset" : "X470", "precio" : 98, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1ccc"), "modelo" : "GA-A320M-S2H V2", "factorForma" : "Micro ATX", "chipset" : "B350", "precio" : 60, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1ccd"), "modelo" : "A320M DVS R4.0", "factorForma" : "ATX", "chipset" : "A320", "precio" : 48, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] } ] }
+{ "marca" : "AMD", "generacion" : "Matisse", "modelo" : "Ryzen 3 3200G", "core" : 4, "Ghz" : 4, "precio" : 130, "dateOfRelased" : ISODate("2019-07-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb23b3794b8114d1cc4"), "modelo" : "B450M DS3H V2", "factorForma" : "ATX", "chipset" : "B450", "precio" : 75, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz"
+: 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1cca"), "modelo" : "B450M Mortar Max", "factorForma" : "Micro ATX", "chipset" : "B450", "precio" : 90, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" :
+ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1ccb"), "modelo" : "X470 Gaming Plus Max", "factorForma" : "ATX", "chipset" : "X470", "precio" : 98, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 } ] }, { "_id" : ObjectId("6043eeb23b3794b8114d1ccc"), "modelo" : "GA-A320M-S2H V2", "factorForma" : "Micro ATX", "chipset" : "B350", "precio" : 60, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1ccd"), "modelo" : "A320M DVS R4.0", "factorForma" : "ATX", "chipset" : "A320", "precio" : 48, "MemoriasCompatibles" : [
+{ "_id" : ObjectId("6043e46a9aef0c93bccfe561"), "PN" : "HX432C16FB3K2/16", "modelo" : "HyperX Fury Black", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50, "dateOfRelased" : ISODate("2020-10-01T00:00:00Z") }, { "_id" : ObjectId("6043e46a9aef0c93bccfe562"), "PN" : "CMW16GX4M2Z3200C16", "modelo" : "Corsair Vengeance RGB Pro", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 60 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe563"), "PN" : "HX432C16FB3AK2/32", "modelo" : "HyperX Fury RGB", "Mhz" : 3200, "cl" : 16, "gen" : "DDR4", "capacidad" : 16, "precio" : 90 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4",
+"Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] } ] }
+{ "marca" : "Intel", "generacion" : "Comet Lake", "modelo" : "Core i9-10900K", "core" : 10, "Ghz" : 5.3, "precio" : 570, "dateOfRelased" : ISODate("2020-05-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb33b3794b8114d1cd0"), "modelo" : "PRIME B460M-A", "factorForma" : "Micro ATX", "chipset" : "B460", "precio" : 90, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl"
+: 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd1"), "modelo" : "H410M H", "factorForma" : "Micro ATX", "chipset" : "H410", "precio" : 86, "MemoriasCompatibles" : [ {
+"_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd2"), "modelo" : "PRIME H470-PLUS", "factorForma" : "Micro ATX", "chipset" : "H470", "precio" : 86, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, {
+"_id" : ObjectId("6043eeb33b3794b8114d1cd3"), "modelo" : "MPG Z490 GAMING EDGE WIFI", "factorForma" : "ATX", "chipset" : "Z490", "precio" : 207, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe566"), "PN" : "BLM2K8G40C18U4BL/32", "modelo" : "Ballistix Max RGB", "Mhz" : 4400, "cl" : 18, "gen" : "DDR4", "capacidad" : 32, "precio" : 250 } ] } ] }
+{ "marca" : "Intel", "generacion" : "Coffee Lake", "modelo" : "Core i7-9700", "core" : 8, "Ghz" : 4.7, "precio" : 275, "dateOfRelased" : ISODate("2019-05-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb23b3794b8114d1cc5"), "modelo" : "B365M-DS3H", "factorForma" : "ATX", "chipset" : "B365", "precio" : 75, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd4"), "modelo" : "B365M-ITX/AC", "factorForma" : "ATX", "chipset" : "B365", "precio" : 109, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" :
+"IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd5"), "modelo" : "H310M S2H 2.0", "factorForma" : "ATX", "chipset" : "H310", "precio" : 61, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd6"), "modelo" : "Z390 UD", "factorForma" : "ATX", "chipset" : "Z370", "precio" : 105, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] } ] }
+{ "marca" : "Intel", "generacion" : "Comet Lake", "modelo" : "Core i7-10700K", "core" : 8, "Ghz" : 5.1, "precio" : 370, "dateOfRelased" : ISODate("2020-05-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb33b3794b8114d1cd0"), "modelo" : "PRIME B460M-A", "factorForma" : "Micro ATX", "chipset" : "B460", "precio" : 90, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd1"), "modelo" : "H410M H", "factorForma" : "Micro ATX", "chipset" : "H410", "precio" : 86, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd2"), "modelo" : "PRIME H470-PLUS", "factorForma" : "Micro ATX", "chipset" : "H470", "precio" : 86, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd3"), "modelo" : "MPG Z490 GAMING EDGE WIFI", "factorForma" : "ATX", "chipset" : "Z490", "precio" : 207, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe566"), "PN" : "BLM2K8G40C18U4BL/32", "modelo" : "Ballistix Max RGB", "Mhz" : 4400, "cl" : 18, "gen" : "DDR4", "capacidad" : 32, "precio" : 250 } ] } ] }
+{ "marca" : "Intel", "generacion" : "Coffee Lake", "modelo" : "Core i5-9600K", "core" : 6, "Ghz" : 4.6, "precio" : 190, "dateOfRelased" : ISODate("2018-10-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb23b3794b8114d1cc5"), "modelo" : "B365M-DS3H", "factorForma" : "ATX", "chipset" : "B365", "precio" : 75, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd4"), "modelo" : "B365M-ITX/AC", "factorForma" : "ATX", "chipset" : "B365", "precio" : 109, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd5"), "modelo" : "H310M S2H 2.0", "factorForma" : "ATX", "chipset" : "H310", "precio" : 61, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad"
+: 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd6"), "modelo" : "Z390 UD", "factorForma" : "ATX", "chipset" : "Z370", "precio" : 105, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] } ] }
+{ "marca" : "Intel", "generacion" : "Comet Lake", "modelo" : "Core i5-10600K", "core" : 6, "Ghz" : 4.8, "precio" : 250, "dateOfRelased" : ISODate("2020-05-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb33b3794b8114d1cd0"), "modelo" : "PRIME B460M-A", "factorForma" : "Micro ATX", "chipset" : "B460", "precio" : 90, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd1"), "modelo" : "H410M H", "factorForma" : "Micro ATX", "chipset" : "H410", "precio" : 86, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd2"), "modelo" : "PRIME H470-PLUS", "factorForma" : "Micro ATX", "chipset" : "H470", "precio" : 86, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd3"), "modelo" : "MPG Z490 GAMING EDGE WIFI", "factorForma" : "ATX", "chipset" : "Z490", "precio" : 207, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe566"), "PN" : "BLM2K8G40C18U4BL/32", "modelo" : "Ballistix Max RGB", "Mhz" : 4400, "cl" : 18, "gen" : "DDR4", "capacidad" : 32, "precio" : 250 } ] } ] }
+{ "marca" : "Intel", "generacion" : "Comet Lake", "modelo" : "Core i3-10320", "core" : 4, "Ghz" : 4.6, "precio" : 150, "dateOfRelased" : ISODate("2020-05-01T00:00:00Z"), "PlacasBaseCompatibles" : [ { "_id" : ObjectId("6043eeb33b3794b8114d1cd0"), "modelo" : "PRIME B460M-A", "factorForma" : "Micro ATX", "chipset" : "B460", "precio" : 90, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" :
+15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd1"), "modelo" : "H410M H", "factorForma" : "Micro ATX", "chipset" : "H410", "precio" : 86, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] }, { "_id" : ObjectId("6043eeb33b3794b8114d1cd2"), "modelo" : "PRIME H470-PLUS", "factorForma" : "Micro ATX", "chipset" : "H470", "precio" : 86, "MemoriasCompatibles" : [ { "_id" : ObjectId("6043e46a9aef0c93bccfe564"), "PN" : "HX426C16FB3/4 ", "modelo" : "HyperX Fury Black", "Mhz" : 2666, "cl" : 16, "gen" : "DDR4", "capacidad" : 8, "precio" : 50 }, { "_id" : ObjectId("6043e46a9aef0c93bccfe565"), "PN" : "IR-2400D464L15S/4G", "modelo" : "IRDM DDR4", "Mhz" : 2400, "cl" : 15, "gen" : "DDR4", "capacidad" : 8, "precio" : 30 } ] } ] }
+
+// Algunos ejemplos mas tabulados.
+{
+        "marca" : "AMD",
+        "generacion" : "Matisse",
+        "modelo" : "Ryzen 3 3200G",
+        "core" : 4,
+        "Ghz" : 4,
+        "precio" : 130,
+        "dateOfRelased" : ISODate("2019-07-01T00:00:00Z"),
+        "PlacasBaseCompatibles" : [
+                {
+                        "_id" : ObjectId("6043eeb23b3794b8114d1cc4"),
+                        "modelo" : "B450M DS3H V2",
+                        "factorForma" : "ATX",
+                        "chipset" : "B450",
+                        "precio" : 75,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe561"),
+                                        "PN" : "HX432C16FB3K2/16",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe562"),
+                                        "PN" : "CMW16GX4M2Z3200C16",
+                                        "modelo" : "Corsair Vengeance RGB Pro",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 60
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe563"),
+                                        "PN" : "HX432C16FB3AK2/32",
+                                        "modelo" : "HyperX Fury RGB",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 16,
+                                        "precio" : 90
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb23b3794b8114d1cca"),
+                        "modelo" : "B450M Mortar Max",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "B450",
+                        "precio" : 90,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe561"),
+                                        "PN" : "HX432C16FB3K2/16",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe562"),
+                                        "PN" : "CMW16GX4M2Z3200C16",
+                                        "modelo" : "Corsair Vengeance RGB Pro",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 60
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe563"),
+                                        "PN" : "HX432C16FB3AK2/32",
+                                        "modelo" : "HyperX Fury RGB",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 16,
+                                        "precio" : 90
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb23b3794b8114d1ccb"),
+                        "modelo" : "X470 Gaming Plus Max",
+                        "factorForma" : "ATX",
+                        "chipset" : "X470",
+                        "precio" : 98,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe561"),
+                                        "PN" : "HX432C16FB3K2/16",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe562"),
+                                        "PN" : "CMW16GX4M2Z3200C16",
+                                        "modelo" : "Corsair Vengeance RGB Pro",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 60
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe563"),
+                                        "PN" : "HX432C16FB3AK2/32",
+                                        "modelo" : "HyperX Fury RGB",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 16,
+                                        "precio" : 90
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb23b3794b8114d1ccc"),
+                        "modelo" : "GA-A320M-S2H V2",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "B350",
+                        "precio" : 60,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe561"),
+                                        "PN" : "HX432C16FB3K2/16",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe562"),
+                                        "PN" : "CMW16GX4M2Z3200C16",
+                                        "modelo" : "Corsair Vengeance RGB Pro",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 60
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe563"),
+                                        "PN" : "HX432C16FB3AK2/32",
+                                        "modelo" : "HyperX Fury RGB",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 16,
+                                        "precio" : 90
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1ccd"),
+                        "modelo" : "A320M DVS R4.0",
+                        "factorForma" : "ATX",
+                        "chipset" : "A320",
+                        "precio" : 48,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe561"),
+                                        "PN" : "HX432C16FB3K2/16",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50,
+                                        "dateOfRelased" : ISODate("2020-10-01T00:00:00Z")
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe562"),
+                                        "PN" : "CMW16GX4M2Z3200C16",
+                                        "modelo" : "Corsair Vengeance RGB Pro",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 60
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe563"),
+                                        "PN" : "HX432C16FB3AK2/32",
+                                        "modelo" : "HyperX Fury RGB",
+                                        "Mhz" : 3200,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 16,
+                                        "precio" : 90
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                }
+        ]
+}
+{
+        "marca" : "Intel",
+        "generacion" : "Comet Lake",
+        "modelo" : "Core i9-10900K",
+        "core" : 10,
+        "Ghz" : 5.3,
+        "precio" : 570,
+        "dateOfRelased" : ISODate("2020-05-01T00:00:00Z"),
+        "PlacasBaseCompatibles" : [
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd0"),
+                        "modelo" : "PRIME B460M-A",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "B460",
+                        "precio" : 90,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd1"),
+                        "modelo" : "H410M H",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "H410",
+                        "precio" : 86,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd2"),
+                        "modelo" : "PRIME H470-PLUS",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "H470",
+                        "precio" : 86,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd3"),
+                        "modelo" : "MPG Z490 GAMING EDGE WIFI",
+                        "factorForma" : "ATX",
+                        "chipset" : "Z490",
+                        "precio" : 207,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe566"),
+                                        "PN" : "BLM2K8G40C18U4BL/32",
+                                        "modelo" : "Ballistix Max RGB",
+                                        "Mhz" : 4400,
+                                        "cl" : 18,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 32,
+                                        "precio" : 250
+                                }
+                        ]
+                }
+        ]
+}
+{
+        "marca" : "Intel",
+        "generacion" : "Coffee Lake",
+        "modelo" : "Core i7-9700",
+        "core" : 8,
+        "Ghz" : 4.7,
+        "precio" : 275,
+        "dateOfRelased" : ISODate("2019-05-01T00:00:00Z"),
+        "PlacasBaseCompatibles" : [
+                {
+                        "_id" : ObjectId("6043eeb23b3794b8114d1cc5"),
+                        "modelo" : "B365M-DS3H",
+                        "factorForma" : "ATX",
+                        "chipset" : "B365",
+                        "precio" : 75,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd4"),
+                        "modelo" : "B365M-ITX/AC",
+                        "factorForma" : "ATX",
+                        "chipset" : "B365",
+                        "precio" : 109,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd5"),
+                        "modelo" : "H310M S2H 2.0",
+                        "factorForma" : "ATX",
+                        "chipset" : "H310",
+                        "precio" : 61,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd6"),
+                        "modelo" : "Z390 UD",
+                        "factorForma" : "ATX",
+                        "chipset" : "Z370",
+                        "precio" : 105,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                }
+        ]
+}
+{
+        "marca" : "Intel",
+        "generacion" : "Comet Lake",
+        "modelo" : "Core i7-10700K",
+        "core" : 8,
+        "Ghz" : 5.1,
+        "precio" : 370,
+        "dateOfRelased" : ISODate("2020-05-01T00:00:00Z"),
+        "PlacasBaseCompatibles" : [
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd0"),
+                        "modelo" : "PRIME B460M-A",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "B460",
+                        "precio" : 90,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd1"),
+                        "modelo" : "H410M H",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "H410",
+                        "precio" : 86,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd2"),
+                        "modelo" : "PRIME H470-PLUS",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "H470",
+                        "precio" : 86,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd3"),
+                        "modelo" : "MPG Z490 GAMING EDGE WIFI",
+                        "factorForma" : "ATX",
+                        "chipset" : "Z490",
+                        "precio" : 207,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe566"),
+                                        "PN" : "BLM2K8G40C18U4BL/32",
+                                        "modelo" : "Ballistix Max RGB",
+                                        "Mhz" : 4400,
+                                        "cl" : 18,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 32,
+                                        "precio" : 250
+                                }
+                        ]
+                }
+        ]
+}
+{
+        "marca" : "Intel",
+        "generacion" : "Coffee Lake",
+        "modelo" : "Core i5-9600K",
+        "core" : 6,
+        "Ghz" : 4.6,
+        "precio" : 190,
+        "dateOfRelased" : ISODate("2018-10-01T00:00:00Z"),
+        "PlacasBaseCompatibles" : [
+                {
+                        "_id" : ObjectId("6043eeb23b3794b8114d1cc5"),
+                        "modelo" : "B365M-DS3H",
+                        "factorForma" : "ATX",
+                        "chipset" : "B365",
+                        "precio" : 75,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd4"),
+                        "modelo" : "B365M-ITX/AC",
+                        "factorForma" : "ATX",
+                        "chipset" : "B365",
+                        "precio" : 109,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd5"),
+                        "modelo" : "H310M S2H 2.0",
+                        "factorForma" : "ATX",
+                        "chipset" : "H310",
+                        "precio" : 61,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd6"),
+                        "modelo" : "Z390 UD",
+                        "factorForma" : "ATX",
+                        "chipset" : "Z370",
+                        "precio" : 105,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                }
+        ]
+}
+{
+        "marca" : "Intel",
+        "generacion" : "Comet Lake",
+        "modelo" : "Core i5-10600K",
+        "core" : 6,
+        "Ghz" : 4.8,
+        "precio" : 250,
+        "dateOfRelased" : ISODate("2020-05-01T00:00:00Z"),
+        "PlacasBaseCompatibles" : [
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd0"),
+                        "modelo" : "PRIME B460M-A",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "B460",
+                        "precio" : 90,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd1"),
+                        "modelo" : "H410M H",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "H410",
+                        "precio" : 86,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd2"),
+                        "modelo" : "PRIME H470-PLUS",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "H470",
+                        "precio" : 86,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd3"),
+                        "modelo" : "MPG Z490 GAMING EDGE WIFI",
+                        "factorForma" : "ATX",
+                        "chipset" : "Z490",
+                        "precio" : 207,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe566"),
+                                        "PN" : "BLM2K8G40C18U4BL/32",
+                                        "modelo" : "Ballistix Max RGB",
+                                        "Mhz" : 4400,
+                                        "cl" : 18,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 32,
+                                        "precio" : 250
+                                }
+                        ]
+                }
+        ]
+}
+{
+        "marca" : "Intel",
+        "generacion" : "Comet Lake",
+        "modelo" : "Core i3-10320",
+        "core" : 4,
+        "Ghz" : 4.6,
+        "precio" : 150,
+        "dateOfRelased" : ISODate("2020-05-01T00:00:00Z"),
+        "PlacasBaseCompatibles" : [
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd0"),
+                        "modelo" : "PRIME B460M-A",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "B460",
+                        "precio" : 90,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd1"),
+                        "modelo" : "H410M H",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "H410",
+                        "precio" : 86,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                },
+                {
+                        "_id" : ObjectId("6043eeb33b3794b8114d1cd2"),
+                        "modelo" : "PRIME H470-PLUS",
+                        "factorForma" : "Micro ATX",
+                        "chipset" : "H470",
+                        "precio" : 86,
+                        "MemoriasCompatibles" : [
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe564"),
+                                        "PN" : "HX426C16FB3/4 ",
+                                        "modelo" : "HyperX Fury Black",
+                                        "Mhz" : 2666,
+                                        "cl" : 16,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 50
+                                },
+                                {
+                                        "_id" : ObjectId("6043e46a9aef0c93bccfe565"),
+                                        "PN" : "IR-2400D464L15S/4G",
+                                        "modelo" : "IRDM DDR4",
+                                        "Mhz" : 2400,
+                                        "cl" : 15,
+                                        "gen" : "DDR4",
+                                        "capacidad" : 8,
+                                        "precio" : 30
+                                }
+                        ]
+                }
+        ]
+}
+
+
